@@ -7,7 +7,6 @@ class Solution:
             curr += nums[i]
             i+=1
            
-            
         ans = curr
         
         for i in range(k, len(nums)): #iterate over rest of the windows
