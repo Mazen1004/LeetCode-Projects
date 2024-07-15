@@ -25,10 +25,10 @@ class Solution:
                     queue.append(node.left)
                 if node.right:
                     queue.append(node.right)
-            if (count % 2) == 0: #if count is at an even level
+            if (count % 2) == 0: #if count is at an even level reverse values in queue
                 level_ans.reverse()
                 ans.append(level_ans)
-            else: #if count at odd level just flip the values in queue
+            else: #if count at odd level just append the values in queue
                 ans.append(level_ans)
         
         return ans
