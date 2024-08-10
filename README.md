@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0695-max-area-of-island) |
 | [1127-last-stone-weight](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1171-shortest-path-in-binary-matrix) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Union Find
 |  |
@@ -108,4 +109,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1127-last-stone-weight) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2310-minimum-operations-to-halve-array-sum) |
+## Greedy
+|  |
+| ------- |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2310-minimum-operations-to-halve-array-sum) |
 <!---LeetCode Topics End-->
