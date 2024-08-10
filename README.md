@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0695-max-area-of-island) |
+| [1127-last-stone-weight](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Union Find
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2445-reachable-nodes-with-restrictions) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
