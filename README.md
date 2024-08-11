@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0695-max-area-of-island) |
+| [1014-k-closest-points-to-origin](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1014-k-closest-points-to-origin) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1014-k-closest-points-to-origin) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1127-last-stone-weight) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1014-k-closest-points-to-origin) |
 ## Data Stream
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -162,4 +166,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1014-k-closest-points-to-origin) |
+## Math
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
