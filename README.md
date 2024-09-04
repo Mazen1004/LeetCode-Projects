@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2245-destroying-asteroids](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2245-destroying-asteroids) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Union Find
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2245-destroying-asteroids](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2245-destroying-asteroids) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2310-minimum-operations-to-halve-array-sum) |
 ## Two Pointers
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1014-k-closest-points-to-origin) |
+| [2245-destroying-asteroids](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2245-destroying-asteroids) |
 ## Data Stream
 |  |
 | ------- |
