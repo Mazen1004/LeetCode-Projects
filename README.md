@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0695-max-area-of-island) |
+| [0917-boats-to-save-people](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1014-k-closest-points-to-origin) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1127-last-stone-weight) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0917-boats-to-save-people](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0917-boats-to-save-people) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0295-find-median-from-data-stream) |
+| [0917-boats-to-save-people](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0917-boats-to-save-people) |
 ## Design
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0347-top-k-frequent-elements) |
+| [0917-boats-to-save-people](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1014-k-closest-points-to-origin) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2245-destroying-asteroids](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2245-destroying-asteroids) |
