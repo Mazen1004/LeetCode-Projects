@@ -11,7 +11,7 @@ class Solution:
         currArrSize= len(arr)
         for frequency in ordered:
             count += 1
-            if currArrSize - frequency <= arrSizeGoal:
+            if currArrSize - frequency <= arrSizeGoal: #condition has been met so couunt can be returned
                 return count
             else:
                 currArrSize = currArrSize - frequency
