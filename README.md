@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0917-boats-to-save-people) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
+| [1448-maximum-69-number](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1464-reduce-array-size-to-the-half) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1829-maximum-units-on-a-truck](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1829-maximum-units-on-a-truck) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1014-k-closest-points-to-origin) |
+| [1448-maximum-69-number](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1448-maximum-69-number) |
 ## Geometry
 |  |
 | ------- |
