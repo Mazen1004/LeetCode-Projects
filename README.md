@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0270-closest-binary-search-tree-value](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0270-closest-binary-search-tree-value) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0792-binary-search](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0792-binary-search) |
 | [0975-range-sum-of-bst](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0975-range-sum-of-bst) |
 ## Array
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0695-max-area-of-island) |
+| [0792-binary-search](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1014-k-closest-points-to-origin) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1126-minimum-cost-to-connect-sticks) |
