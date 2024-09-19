@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0792-binary-search) |
 | [0975-range-sum-of-bst](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0975-range-sum-of-bst) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Array
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2245-destroying-asteroids](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2245-destroying-asteroids) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Union Find
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0295-find-median-from-data-stream) |
 | [0917-boats-to-save-people](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0917-boats-to-save-people) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Design
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1829-maximum-units-on-a-truck](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1829-maximum-units-on-a-truck) |
 | [2245-destroying-asteroids](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2245-destroying-asteroids) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Data Stream
 |  |
 | ------- |
