@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0074-search-a-2d-matrix) |
 | [0270-closest-binary-search-tree-value](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0270-closest-binary-search-tree-value) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0215-kth-largest-element-in-an-array) |
