@@ -227,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2469-longest-subsequence-with-limited-sum) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
