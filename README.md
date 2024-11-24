@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0347-top-k-frequent-elements) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1464-reduce-array-size-to-the-half) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0347-top-k-frequent-elements) |
 | [0917-boats-to-save-people](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0917-boats-to-save-people) |
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1908-recyclable-and-low-fat-products) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
