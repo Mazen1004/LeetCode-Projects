@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0295-find-median-from-data-stream) |
+| [0344-reverse-string](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0344-reverse-string) |
 | [0917-boats-to-save-people](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0917-boats-to-save-people) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Design
@@ -250,4 +251,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
