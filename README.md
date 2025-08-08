@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0141-linked-list-cycle) |
 | [0295-find-median-from-data-stream](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0344-reverse-string) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0206-reverse-linked-list) |
 ## Recursion
