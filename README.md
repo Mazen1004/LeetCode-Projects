@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0270-closest-binary-search-tree-value](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0270-closest-binary-search-tree-value) |
+| [0287-find-the-duplicate-number](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0695-max-area-of-island](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0695-max-area-of-island) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -279,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
