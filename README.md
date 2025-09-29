@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1464-reduce-array-size-to-the-half) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [2427-first-letter-to-appear-twice](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2427-first-letter-to-appear-twice) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Heap (Priority Queue)
 |  |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0347-top-k-frequent-elements) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [2427-first-letter-to-appear-twice](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2427-first-letter-to-appear-twice) |
 ## Quickselect
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0344-reverse-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2427-first-letter-to-appear-twice) |
 ## Stack
 |  |
 | ------- |
@@ -294,4 +297,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0287-find-the-duplicate-number) |
+| [2427-first-letter-to-appear-twice](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
