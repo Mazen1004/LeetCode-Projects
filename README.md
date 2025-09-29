@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0242-valid-anagram) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0344-reverse-string) |
@@ -298,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0287-find-the-duplicate-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Mazen1004/LeetCode-Projects/tree/master/2427-first-letter-to-appear-twice) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
