@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1014-k-closest-points-to-origin) |
 | [1448-maximum-69-number](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1448-maximum-69-number) |
 ## Geometry
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -304,4 +306,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mazen1004/LeetCode-Projects/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Mazen1004/LeetCode-Projects/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
